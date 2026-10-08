@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Dh6celcD.mjs";function t(e,t){return{description:`.`,favicon:`https://framerusercontent.com/assets/JhQNReWTzNALGsqmcXUPR5SJPM.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/7rCUZ3grbwYpGZ8FvJbohbmZA.png`,title:`nitro by jace`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.BFhg_aw3.mjs.map
